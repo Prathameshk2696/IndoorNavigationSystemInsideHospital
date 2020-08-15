@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Navigate Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="DestinationList">
+        <item>Reception</item>
+        <item>Lift(Ground Floor)</item>
+       
+        <item>OT</item>
+        <item>Recovery Room</item>
+        <item>Upstairs</item>
+        <item>Lift(First Floor)</item>
+        
+       
+        <item>General Ward</item>
+        <item>Semi-special Room 1</item>
+        
+        
+        
+    </string-array>
+    
+    <string name="title_activity_activity_two">ActivityTwo</string>
+    <string name="title_activity_shortest_path">ShortestPath</string>
+
+</resources>
